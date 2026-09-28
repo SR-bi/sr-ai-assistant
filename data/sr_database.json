@@ -1,0 +1,3048 @@
+{
+  "users": [
+    {
+      "id": "usr_owner_alpha_01",
+      "email": "alex@sr.ai",
+      "name": "Alex Mercer",
+      "passwordHash": "c84cec606ac7fc8f0f331b5137f2a46d00ecc25bb9ec3bc24b42863f1ea5b66ca1ec3a55b30c51968be66b3d1719ae490531976608b59e65b029c1229091cf43",
+      "salt": "360bb4e8bc5b9dd93e06d333a0751cfb",
+      "securityCodeHash": "0db8fc2838fe6cec7cd00380d83912cd034d573406c6f2ba09d11608ce405efc",
+      "createdAt": "2026-09-28T15:26:23.542Z"
+    },
+    {
+      "id": "usr_guest_beta_02",
+      "email": "sarah@sr.ai",
+      "name": "Sarah Connor",
+      "passwordHash": "1151990c932cb27ab0d6a738b7ae43b4673289bc0e3df075592b626128c97fde70c4b5102934497febf54441f528b3eb6e305cac93372c01f3da805e41637b16",
+      "salt": "7f60cfdd10c51088ea000e6cfb3889f6",
+      "securityCodeHash": "d62cd00752d013af2d71f112b2a36b76f2cbf07bc7ab08bc729518714bb7fa3c",
+      "createdAt": "2026-09-28T15:26:23.549Z"
+    },
+    {
+      "id": "usr_7d2493341b77cc3c",
+      "email": "test_alex_1790609218252@sr.ai",
+      "name": "Alex Test",
+      "passwordHash": "54bfa1bde8c26a7b60d80456790ecad666182b5fc1bddbf46fcddf91ef817400edf7420b256fe1240aea5d1998c734135bce1da0620df494af55abeceabe1124",
+      "salt": "0901fa115c22c74d8814a8844550ada6",
+      "securityCodeHash": "cc64e7bedfeacf908d3d4da50eaf06ac8587f45f88c2f8fef6fe02f9dc0b088d",
+      "createdAt": "2026-09-28T15:26:58.261Z"
+    },
+    {
+      "id": "usr_716b48aae3f15a9b",
+      "email": "test_sarah_1790609218294@sr.ai",
+      "name": "Sarah Test",
+      "passwordHash": "ff6a9ece269652bf47f5e2ab190bf3e84626f61c118e693dbb94a1ed4f0417d2ff5d83c9a78606a4bad68fbf2e4e55684d14c251cfcb0eefcbd55c0af7370457",
+      "salt": "a6b84ac187eb6da0067ffafbf5eb02d4",
+      "securityCodeHash": "27e995b05e6712f68915e875e8010bf9a07fbab223b2f36404a988a32f0961c7",
+      "createdAt": "2026-09-28T15:26:58.302Z"
+    },
+    {
+      "id": "usr_560249722cd83231",
+      "email": "test_alex_1790609724118@sr.ai",
+      "name": "Alex Test",
+      "passwordHash": "74f5ede0ba5d7e3dd56c11d4ed98877eb07942bdff6f5b20d4e52ed82f7fda8aaee2058f03297b41927488fa1cfb797ba32f689cc5f6026864224ec007054412",
+      "salt": "6e2954dc92256704e1f071fc8f0b737d",
+      "securityCodeHash": "cc3c316eabcc422d01fe75393da6a1f644208da8b7937f8f5cac2783c54d8075",
+      "createdAt": "2026-09-28T15:35:24.127Z"
+    },
+    {
+      "id": "usr_43b9fe717ab64943",
+      "email": "test_sarah_1790609724133@sr.ai",
+      "name": "Sarah Test",
+      "passwordHash": "934a92600264a7e62a89e141b7e1cd9323711dbbc71f996be098daf495c943c98a5346a2b199328d1df2c8ede22fa9840fa1ab72c3a9f41b745ce6e7d467e6b8",
+      "salt": "61620c96b423480ec9191be4c9fa7a74",
+      "securityCodeHash": "626c5b840db9c41b6b308dc6fe8e6ce49a8ee1d68b2f5010f61005e7fef14f15",
+      "createdAt": "2026-09-28T15:35:24.141Z"
+    },
+    {
+      "id": "usr_727a73c1867064cf",
+      "email": "test_alex_1790609749644@sr.ai",
+      "name": "Alex Test",
+      "passwordHash": "28597bdf0b77fd8df1285d5a076bb34dfba657e603e993d1cbc9be5ddb5a327f23e2173e6b557c761b0c13e9f4ab844cac2a82b3303c30f4711ca5a0886ca220",
+      "salt": "ca444e513b0e1a0ed2d54dc2f51a106d",
+      "securityCodeHash": "72d5d368dcdc1c59b2c6ec47fe97c51040839c5ba02ea84a4bed5544b203dab3",
+      "createdAt": "2026-09-28T15:35:49.652Z"
+    },
+    {
+      "id": "usr_577cb45a90ae0875",
+      "email": "test_sarah_1790609749659@sr.ai",
+      "name": "Sarah Test",
+      "passwordHash": "985bc1886ee132f59e588e46ad0fe7fb7d3064a21bc9f2c5f5d7152f03ea341bd13b23522a5cbc734466c8e778993536528fef639b74c8cd39176cc858d7d181",
+      "salt": "dd9ad8f9893ad758b76de4c9a89af718",
+      "securityCodeHash": "84465ae0ac797144a4e55ef73f0d95c3f2ea3425aae2e1eb66235dd844f019a0",
+      "createdAt": "2026-09-28T15:35:49.667Z"
+    },
+    {
+      "id": "usr_ca7080525e12cb27",
+      "email": "test_alex_1790611456014@sr.ai",
+      "name": "Alex Test",
+      "passwordHash": "b23eabc330c83ba1b9eb9e3d28979bb56c385035e32af7fecc49dab361cd2cadf1fc2074f8b3616427f1728f2afc866c4b84f7068f285f3f3c9325616ca0a481",
+      "salt": "dfeba6b859237693e95957ede8ae26aa",
+      "securityCodeHash": "fe04d7f133c186932562f627778b7ff1abd5fea3cc664a7b196f60ec55277aba",
+      "createdAt": "2026-09-28T16:04:16.024Z"
+    },
+    {
+      "id": "usr_e5bdb90447542221",
+      "email": "test_sarah_1790611456042@sr.ai",
+      "name": "Sarah Test",
+      "passwordHash": "ce39eb4f980666fb324b88852e0616c6928b783ce6a38a08af554fc7af1c59e22fb63c8f87d6cfc6641ee5d63e704b2ba2fb152f1f61247f25176eaff028d069",
+      "salt": "c42edbd947b644dea8690150ca4f38db",
+      "securityCodeHash": "420fe2bb500d4a9616fe60b38ef2ac9c786eb3d9db257ceb59ac14f2e1a72669",
+      "createdAt": "2026-09-28T16:04:16.050Z"
+    }
+  ],
+  "profiles": [
+    {
+      "userId": "usr_owner_alpha_01",
+      "preferredLanguage": "en",
+      "voicePreference": "Zephyr",
+      "timezone": "America/New_York",
+      "autoSpeak": true,
+      "requireVoiceConfirmation": false
+    },
+    {
+      "userId": "usr_guest_beta_02",
+      "preferredLanguage": "roman_urdu",
+      "voicePreference": "Kore",
+      "timezone": "Asia/Karachi",
+      "autoSpeak": true,
+      "requireVoiceConfirmation": true
+    },
+    {
+      "userId": "usr_7d2493341b77cc3c",
+      "preferredLanguage": "en",
+      "voicePreference": "Zephyr",
+      "timezone": "UTC",
+      "autoSpeak": true,
+      "requireVoiceConfirmation": false
+    },
+    {
+      "userId": "usr_716b48aae3f15a9b",
+      "preferredLanguage": "en",
+      "voicePreference": "Zephyr",
+      "timezone": "UTC",
+      "autoSpeak": true,
+      "requireVoiceConfirmation": false
+    },
+    {
+      "userId": "usr_560249722cd83231",
+      "preferredLanguage": "en",
+      "voicePreference": "Zephyr",
+      "timezone": "UTC",
+      "autoSpeak": true,
+      "requireVoiceConfirmation": false
+    },
+    {
+      "userId": "usr_43b9fe717ab64943",
+      "preferredLanguage": "en",
+      "voicePreference": "Zephyr",
+      "timezone": "UTC",
+      "autoSpeak": true,
+      "requireVoiceConfirmation": false
+    },
+    {
+      "userId": "usr_727a73c1867064cf",
+      "preferredLanguage": "en",
+      "voicePreference": "Zephyr",
+      "timezone": "UTC",
+      "autoSpeak": true,
+      "requireVoiceConfirmation": false
+    },
+    {
+      "userId": "usr_577cb45a90ae0875",
+      "preferredLanguage": "en",
+      "voicePreference": "Zephyr",
+      "timezone": "UTC",
+      "autoSpeak": true,
+      "requireVoiceConfirmation": false
+    },
+    {
+      "userId": "usr_ca7080525e12cb27",
+      "preferredLanguage": "en",
+      "voicePreference": "Zephyr",
+      "timezone": "UTC",
+      "autoSpeak": true,
+      "requireVoiceConfirmation": false
+    },
+    {
+      "userId": "usr_e5bdb90447542221",
+      "preferredLanguage": "en",
+      "voicePreference": "Zephyr",
+      "timezone": "UTC",
+      "autoSpeak": true,
+      "requireVoiceConfirmation": false
+    }
+  ],
+  "memories": [
+    {
+      "id": "mem_1",
+      "userId": "usr_owner_alpha_01",
+      "category": "project",
+      "content": "Project deadline is October 10 at 5:00 PM EST.",
+      "source": "voice",
+      "createdAt": "2026-09-28T14:26:23.550Z",
+      "updatedAt": "2026-09-28T14:26:23.550Z"
+    },
+    {
+      "id": "mem_2",
+      "userId": "usr_owner_alpha_01",
+      "category": "preference",
+      "content": "Prefers dark mode, coffee with oat milk, and concise audio summaries.",
+      "source": "chat",
+      "createdAt": "2026-09-28T13:26:23.550Z",
+      "updatedAt": "2026-09-28T13:26:23.550Z"
+    },
+    {
+      "id": "mem_user_b_private",
+      "userId": "usr_guest_beta_02",
+      "category": "personal",
+      "content": "Sarah Connor secret safe combination is Alpha-99-Beta.",
+      "source": "chat",
+      "createdAt": "2026-09-28T15:26:23.550Z",
+      "updatedAt": "2026-09-28T15:26:23.550Z"
+    },
+    {
+      "id": "mem_af446d69656d",
+      "userId": "usr_7d2493341b77cc3c",
+      "category": "project",
+      "content": "User A Confidential Project Deadline is October 10",
+      "source": "voice",
+      "createdAt": "2026-09-28T15:26:58.303Z",
+      "updatedAt": "2026-09-28T15:26:58.303Z"
+    },
+    {
+      "id": "mem_0ed3449979c5",
+      "userId": "usr_560249722cd83231",
+      "category": "project",
+      "content": "User A Confidential Project Deadline is October 10",
+      "source": "voice",
+      "createdAt": "2026-09-28T15:35:24.142Z",
+      "updatedAt": "2026-09-28T15:35:24.142Z"
+    },
+    {
+      "id": "mem_04c7c5cacee6",
+      "userId": "usr_727a73c1867064cf",
+      "category": "project",
+      "content": "User A Confidential Project Deadline is October 10",
+      "source": "voice",
+      "createdAt": "2026-09-28T15:35:49.668Z",
+      "updatedAt": "2026-09-28T15:35:49.668Z"
+    },
+    {
+      "id": "mem_54d3ae2b08ee",
+      "userId": "usr_ca7080525e12cb27",
+      "category": "project",
+      "content": "User A Confidential Project Deadline is October 10",
+      "source": "voice",
+      "createdAt": "2026-09-28T16:04:16.051Z",
+      "updatedAt": "2026-09-28T16:04:16.051Z"
+    }
+  ],
+  "reminders": [
+    {
+      "id": "rem_85104a03e2c7",
+      "userId": "usr_7d2493341b77cc3c",
+      "text": "Quarterly tax filing and team review",
+      "scheduledTime": "2026-09-29T15:26:58.311Z",
+      "timezone": "UTC",
+      "status": "pending",
+      "notificationChannel": "in_app",
+      "createdAt": "2026-09-28T15:26:58.311Z"
+    },
+    {
+      "id": "rem_e8c2361b349d",
+      "userId": "usr_owner_alpha_01",
+      "text": "mujhe kal 8 baje yaad dila dena",
+      "scheduledTime": "2026-09-29T20:00:00.000Z",
+      "timezone": "UTC",
+      "status": "pending",
+      "notificationChannel": "in_app",
+      "createdAt": "2026-09-28T15:30:11.110Z"
+    },
+    {
+      "id": "rem_b64d491a2f65",
+      "userId": "usr_560249722cd83231",
+      "text": "Quarterly tax filing and team review",
+      "scheduledTime": "2026-09-29T15:35:24.150Z",
+      "timezone": "UTC",
+      "status": "pending",
+      "notificationChannel": "in_app",
+      "createdAt": "2026-09-28T15:35:24.150Z"
+    },
+    {
+      "id": "rem_1441f9077597",
+      "userId": "usr_727a73c1867064cf",
+      "text": "Quarterly tax filing and team review",
+      "scheduledTime": "2026-09-29T15:35:49.677Z",
+      "timezone": "UTC",
+      "status": "pending",
+      "notificationChannel": "in_app",
+      "createdAt": "2026-09-28T15:35:49.677Z"
+    },
+    {
+      "id": "rem_3550ce4fd2b1",
+      "userId": "usr_727a73c1867064cf",
+      "text": "Scheduled meeting review",
+      "scheduledTime": "2026-09-29T15:35:55.730Z",
+      "timezone": "UTC",
+      "status": "pending",
+      "notificationChannel": "in_app",
+      "createdAt": "2026-09-28T15:35:55.732Z"
+    },
+    {
+      "id": "rem_1239abd292ea",
+      "userId": "usr_ca7080525e12cb27",
+      "text": "Quarterly tax filing and team review",
+      "scheduledTime": "2026-09-29T16:04:16.060Z",
+      "timezone": "UTC",
+      "status": "pending",
+      "notificationChannel": "in_app",
+      "createdAt": "2026-09-28T16:04:16.060Z"
+    },
+    {
+      "id": "rem_dd1951d8ade1",
+      "userId": "usr_ca7080525e12cb27",
+      "text": "Scheduled meeting review",
+      "scheduledTime": "2026-09-29T16:04:19.887Z",
+      "timezone": "UTC",
+      "status": "pending",
+      "notificationChannel": "in_app",
+      "createdAt": "2026-09-28T16:04:19.889Z"
+    }
+  ],
+  "devices": [
+    {
+      "id": "dev_win_laptop_a",
+      "userId": "usr_owner_alpha_01",
+      "name": "ThinkPad X1 Carbon (Windows 11)",
+      "deviceType": "windows",
+      "status": "online",
+      "lastSeen": "2026-09-28T16:00:53.727Z",
+      "capabilities": [
+        "open_app",
+        "open_url",
+        "create_note",
+        "system_status",
+        "rename_file"
+      ],
+      "pairedToken": "srv_tok_d2aa1206c5150a4e"
+    },
+    {
+      "id": "dev_ce90867b95fb",
+      "userId": "usr_7d2493341b77cc3c",
+      "name": "Authorized Windows Laptop",
+      "deviceType": "windows",
+      "status": "online",
+      "lastSeen": "2026-09-28T15:26:58.319Z",
+      "capabilities": [
+        "open_app",
+        "open_url",
+        "create_note",
+        "system_status",
+        "rename_file"
+      ],
+      "pairedToken": "srv_tok_0830fb678cd3be0c"
+    },
+    {
+      "id": "dev_7b4bef1c4ac0",
+      "userId": "usr_716b48aae3f15a9b",
+      "name": "Authorized Windows Laptop",
+      "deviceType": "windows",
+      "status": "online",
+      "lastSeen": "2026-09-28T15:26:58.302Z",
+      "capabilities": [
+        "open_app",
+        "open_url",
+        "create_note",
+        "system_status",
+        "rename_file"
+      ],
+      "pairedToken": "srv_tok_b68c5ab710aa444d"
+    },
+    {
+      "id": "dev_3cf831b352d2",
+      "userId": "usr_560249722cd83231",
+      "name": "Authorized Windows Laptop",
+      "deviceType": "windows",
+      "status": "online",
+      "lastSeen": "2026-09-28T15:35:24.160Z",
+      "capabilities": [
+        "open_app",
+        "open_url",
+        "create_note",
+        "system_status",
+        "rename_file"
+      ],
+      "pairedToken": "srv_tok_e2bd2f37c83d4cec"
+    },
+    {
+      "id": "dev_2976d7a4ade9",
+      "userId": "usr_43b9fe717ab64943",
+      "name": "Authorized Windows Laptop",
+      "deviceType": "windows",
+      "status": "online",
+      "lastSeen": "2026-09-28T15:35:24.142Z",
+      "capabilities": [
+        "open_app",
+        "open_url",
+        "create_note",
+        "system_status",
+        "rename_file"
+      ],
+      "pairedToken": "srv_tok_b6bdf39bc24e84cd"
+    },
+    {
+      "id": "dev_ea29ea6ad75a",
+      "userId": "usr_727a73c1867064cf",
+      "name": "Authorized Windows Laptop",
+      "deviceType": "windows",
+      "status": "online",
+      "lastSeen": "2026-09-28T15:35:49.688Z",
+      "capabilities": [
+        "open_app",
+        "open_url",
+        "create_note",
+        "system_status",
+        "rename_file"
+      ],
+      "pairedToken": "srv_tok_44e95018f286d344"
+    },
+    {
+      "id": "dev_9d4f64e57901",
+      "userId": "usr_577cb45a90ae0875",
+      "name": "Authorized Windows Laptop",
+      "deviceType": "windows",
+      "status": "online",
+      "lastSeen": "2026-09-28T15:35:49.667Z",
+      "capabilities": [
+        "open_app",
+        "open_url",
+        "create_note",
+        "system_status",
+        "rename_file"
+      ],
+      "pairedToken": "srv_tok_ee3ae44f38476a22"
+    },
+    {
+      "id": "dev_0c76f5fd3cd7",
+      "userId": "usr_ca7080525e12cb27",
+      "name": "Authorized Windows Laptop",
+      "deviceType": "windows",
+      "status": "online",
+      "lastSeen": "2026-09-28T16:04:16.072Z",
+      "capabilities": [
+        "open_app",
+        "open_url",
+        "create_note",
+        "system_status",
+        "rename_file"
+      ],
+      "pairedToken": "srv_tok_4ec280c4058821a6"
+    },
+    {
+      "id": "dev_6f9d933227ab",
+      "userId": "usr_e5bdb90447542221",
+      "name": "Authorized Windows Laptop",
+      "deviceType": "windows",
+      "status": "online",
+      "lastSeen": "2026-09-28T16:04:16.050Z",
+      "capabilities": [
+        "open_app",
+        "open_url",
+        "create_note",
+        "system_status",
+        "rename_file"
+      ],
+      "pairedToken": "srv_tok_9b3318e163b3f495"
+    }
+  ],
+  "integrations": [
+    {
+      "id": "int_wa_a",
+      "userId": "usr_owner_alpha_01",
+      "service": "whatsapp",
+      "name": "WhatsApp Desktop Companion",
+      "status": "connected",
+      "capabilities": [
+        "send_message",
+        "read_receipts"
+      ],
+      "requiresNativeUnlock": true,
+      "isLocked": true,
+      "config": {
+        "phoneNumber": "+1 (555) 019-2831"
+      }
+    },
+    {
+      "id": "int_ve_a",
+      "userId": "usr_owner_alpha_01",
+      "service": "video_editor",
+      "name": "DaVinci Resolve / Premiere Suite",
+      "status": "connected",
+      "capabilities": [
+        "open_editor",
+        "mute_clip",
+        "cut_clip"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {
+        "version": "2026.2"
+      }
+    },
+    {
+      "id": "int_br_a",
+      "userId": "usr_owner_alpha_01",
+      "service": "browser",
+      "name": "Google Chrome / Edge Workstation",
+      "status": "connected",
+      "capabilities": [
+        "open_url",
+        "search_tabs",
+        "bookmark"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {
+        "defaultEngine": "Google"
+      }
+    },
+    {
+      "id": "int_wa_e05524f0b789",
+      "userId": "usr_7d2493341b77cc3c",
+      "service": "whatsapp",
+      "name": "WhatsApp Companion",
+      "status": "connected",
+      "capabilities": [
+        "send_message",
+        "read_receipts"
+      ],
+      "requiresNativeUnlock": true,
+      "isLocked": true,
+      "config": {}
+    },
+    {
+      "id": "int_br_29dcdd8e8a97",
+      "userId": "usr_7d2493341b77cc3c",
+      "service": "browser",
+      "name": "Default Web Browser",
+      "status": "connected",
+      "capabilities": [
+        "open_url",
+        "search_tabs"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_ve_78487ac8cee4",
+      "userId": "usr_7d2493341b77cc3c",
+      "service": "video_editor",
+      "name": "Video Suite Companion",
+      "status": "connected",
+      "capabilities": [
+        "open_editor",
+        "mute_clip",
+        "cut_clip"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_wa_2f5afd6c7030",
+      "userId": "usr_716b48aae3f15a9b",
+      "service": "whatsapp",
+      "name": "WhatsApp Companion",
+      "status": "connected",
+      "capabilities": [
+        "send_message",
+        "read_receipts"
+      ],
+      "requiresNativeUnlock": true,
+      "isLocked": true,
+      "config": {}
+    },
+    {
+      "id": "int_br_bae7234459d9",
+      "userId": "usr_716b48aae3f15a9b",
+      "service": "browser",
+      "name": "Default Web Browser",
+      "status": "connected",
+      "capabilities": [
+        "open_url",
+        "search_tabs"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_ve_0cdca251ebc9",
+      "userId": "usr_716b48aae3f15a9b",
+      "service": "video_editor",
+      "name": "Video Suite Companion",
+      "status": "connected",
+      "capabilities": [
+        "open_editor",
+        "mute_clip",
+        "cut_clip"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_wa_e47a318bf668",
+      "userId": "usr_560249722cd83231",
+      "service": "whatsapp",
+      "name": "WhatsApp Companion",
+      "status": "connected",
+      "capabilities": [
+        "send_message",
+        "read_receipts"
+      ],
+      "requiresNativeUnlock": true,
+      "isLocked": true,
+      "config": {}
+    },
+    {
+      "id": "int_br_98d5c044ed7b",
+      "userId": "usr_560249722cd83231",
+      "service": "browser",
+      "name": "Default Web Browser",
+      "status": "connected",
+      "capabilities": [
+        "open_url",
+        "search_tabs"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_ve_9bb0cdc23344",
+      "userId": "usr_560249722cd83231",
+      "service": "video_editor",
+      "name": "Video Suite Companion",
+      "status": "connected",
+      "capabilities": [
+        "open_editor",
+        "mute_clip",
+        "cut_clip"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_wa_966e3e09da84",
+      "userId": "usr_43b9fe717ab64943",
+      "service": "whatsapp",
+      "name": "WhatsApp Companion",
+      "status": "connected",
+      "capabilities": [
+        "send_message",
+        "read_receipts"
+      ],
+      "requiresNativeUnlock": true,
+      "isLocked": true,
+      "config": {}
+    },
+    {
+      "id": "int_br_69cd66fae57a",
+      "userId": "usr_43b9fe717ab64943",
+      "service": "browser",
+      "name": "Default Web Browser",
+      "status": "connected",
+      "capabilities": [
+        "open_url",
+        "search_tabs"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_ve_4672f6818bbe",
+      "userId": "usr_43b9fe717ab64943",
+      "service": "video_editor",
+      "name": "Video Suite Companion",
+      "status": "connected",
+      "capabilities": [
+        "open_editor",
+        "mute_clip",
+        "cut_clip"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_wa_4a1d8aa1a8dc",
+      "userId": "usr_727a73c1867064cf",
+      "service": "whatsapp",
+      "name": "WhatsApp Companion",
+      "status": "connected",
+      "capabilities": [
+        "send_message",
+        "read_receipts"
+      ],
+      "requiresNativeUnlock": true,
+      "isLocked": true,
+      "config": {}
+    },
+    {
+      "id": "int_br_7ba99287497d",
+      "userId": "usr_727a73c1867064cf",
+      "service": "browser",
+      "name": "Default Web Browser",
+      "status": "connected",
+      "capabilities": [
+        "open_url",
+        "search_tabs"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_ve_9f36da774a9a",
+      "userId": "usr_727a73c1867064cf",
+      "service": "video_editor",
+      "name": "Video Suite Companion",
+      "status": "connected",
+      "capabilities": [
+        "open_editor",
+        "mute_clip",
+        "cut_clip"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_wa_cb8f89c3a8bd",
+      "userId": "usr_577cb45a90ae0875",
+      "service": "whatsapp",
+      "name": "WhatsApp Companion",
+      "status": "connected",
+      "capabilities": [
+        "send_message",
+        "read_receipts"
+      ],
+      "requiresNativeUnlock": true,
+      "isLocked": true,
+      "config": {}
+    },
+    {
+      "id": "int_br_df2c1f2850e8",
+      "userId": "usr_577cb45a90ae0875",
+      "service": "browser",
+      "name": "Default Web Browser",
+      "status": "connected",
+      "capabilities": [
+        "open_url",
+        "search_tabs"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_ve_cd46376a23fa",
+      "userId": "usr_577cb45a90ae0875",
+      "service": "video_editor",
+      "name": "Video Suite Companion",
+      "status": "connected",
+      "capabilities": [
+        "open_editor",
+        "mute_clip",
+        "cut_clip"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_wa_2a2041009a17",
+      "userId": "usr_ca7080525e12cb27",
+      "service": "whatsapp",
+      "name": "WhatsApp Companion",
+      "status": "connected",
+      "capabilities": [
+        "send_message",
+        "read_receipts"
+      ],
+      "requiresNativeUnlock": true,
+      "isLocked": true,
+      "config": {}
+    },
+    {
+      "id": "int_br_1df96e2e2fa5",
+      "userId": "usr_ca7080525e12cb27",
+      "service": "browser",
+      "name": "Default Web Browser",
+      "status": "connected",
+      "capabilities": [
+        "open_url",
+        "search_tabs"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_ve_af3e1ba00d87",
+      "userId": "usr_ca7080525e12cb27",
+      "service": "video_editor",
+      "name": "Video Suite Companion",
+      "status": "connected",
+      "capabilities": [
+        "open_editor",
+        "mute_clip",
+        "cut_clip"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_wa_6773f2d39bd4",
+      "userId": "usr_e5bdb90447542221",
+      "service": "whatsapp",
+      "name": "WhatsApp Companion",
+      "status": "connected",
+      "capabilities": [
+        "send_message",
+        "read_receipts"
+      ],
+      "requiresNativeUnlock": true,
+      "isLocked": true,
+      "config": {}
+    },
+    {
+      "id": "int_br_ee7979d9eeb1",
+      "userId": "usr_e5bdb90447542221",
+      "service": "browser",
+      "name": "Default Web Browser",
+      "status": "connected",
+      "capabilities": [
+        "open_url",
+        "search_tabs"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    },
+    {
+      "id": "int_ve_76e0590c5e5f",
+      "userId": "usr_e5bdb90447542221",
+      "service": "video_editor",
+      "name": "Video Suite Companion",
+      "status": "connected",
+      "capabilities": [
+        "open_editor",
+        "mute_clip",
+        "cut_clip"
+      ],
+      "requiresNativeUnlock": false,
+      "isLocked": false,
+      "config": {}
+    }
+  ],
+  "permissions": [
+    {
+      "id": "perm_usr_owner_alpha_01_open_app",
+      "userId": "usr_owner_alpha_01",
+      "category": "low",
+      "scope": "open_app",
+      "name": "Open Allowed Applications",
+      "description": "Launch verified system applications",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_guest_beta_02_open_app",
+      "userId": "usr_guest_beta_02",
+      "category": "low",
+      "scope": "open_app",
+      "name": "Open Allowed Applications",
+      "description": "Launch verified system applications",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_owner_alpha_01_open_url",
+      "userId": "usr_owner_alpha_01",
+      "category": "low",
+      "scope": "open_url",
+      "name": "Open Web Links",
+      "description": "Open requested URLs in default browser",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_guest_beta_02_open_url",
+      "userId": "usr_guest_beta_02",
+      "category": "low",
+      "scope": "open_url",
+      "name": "Open Web Links",
+      "description": "Open requested URLs in default browser",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_owner_alpha_01_modify_files",
+      "userId": "usr_owner_alpha_01",
+      "category": "medium",
+      "scope": "modify_files",
+      "name": "Modify Permitted Files",
+      "description": "Rename or edit authorized user notes and files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_guest_beta_02_modify_files",
+      "userId": "usr_guest_beta_02",
+      "category": "medium",
+      "scope": "modify_files",
+      "name": "Modify Permitted Files",
+      "description": "Rename or edit authorized user notes and files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_owner_alpha_01_access_protected_files",
+      "userId": "usr_owner_alpha_01",
+      "category": "high",
+      "scope": "access_protected_files",
+      "name": "Access Protected & Secret Resources",
+      "description": "Decrypt and read high-security confidential files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": true
+    },
+    {
+      "id": "perm_usr_guest_beta_02_access_protected_files",
+      "userId": "usr_guest_beta_02",
+      "category": "high",
+      "scope": "access_protected_files",
+      "name": "Access Protected & Secret Resources",
+      "description": "Decrypt and read high-security confidential files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": true
+    },
+    {
+      "id": "perm_usr_owner_alpha_01_external_messages",
+      "userId": "usr_owner_alpha_01",
+      "category": "high",
+      "scope": "external_messages",
+      "name": "Send External Messages",
+      "description": "Transmit messages through WhatsApp or messaging services",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_guest_beta_02_external_messages",
+      "userId": "usr_guest_beta_02",
+      "category": "high",
+      "scope": "external_messages",
+      "name": "Send External Messages",
+      "description": "Transmit messages through WhatsApp or messaging services",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_owner_alpha_01_device_control",
+      "userId": "usr_owner_alpha_01",
+      "category": "high",
+      "scope": "device_control",
+      "name": "Laptop / System Commands",
+      "description": "Execute privileged hardware or companion commands",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_guest_beta_02_device_control",
+      "userId": "usr_guest_beta_02",
+      "category": "high",
+      "scope": "device_control",
+      "name": "Laptop / System Commands",
+      "description": "Execute privileged hardware or companion commands",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_7d2493341b77cc3c_open_app",
+      "userId": "usr_7d2493341b77cc3c",
+      "category": "low",
+      "scope": "open_app",
+      "name": "Open Allowed Applications",
+      "description": "Launch verified system applications",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_7d2493341b77cc3c_open_url",
+      "userId": "usr_7d2493341b77cc3c",
+      "category": "low",
+      "scope": "open_url",
+      "name": "Open Web Links",
+      "description": "Open requested URLs in default browser",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_7d2493341b77cc3c_modify_files",
+      "userId": "usr_7d2493341b77cc3c",
+      "category": "medium",
+      "scope": "modify_files",
+      "name": "Modify Permitted Files",
+      "description": "Rename or edit authorized user notes and files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_7d2493341b77cc3c_access_protected_files",
+      "userId": "usr_7d2493341b77cc3c",
+      "category": "high",
+      "scope": "access_protected_files",
+      "name": "Access Protected & Secret Resources",
+      "description": "Decrypt and read high-security confidential files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": true
+    },
+    {
+      "id": "perm_usr_7d2493341b77cc3c_external_messages",
+      "userId": "usr_7d2493341b77cc3c",
+      "category": "high",
+      "scope": "external_messages",
+      "name": "Send External Messages",
+      "description": "Transmit messages through WhatsApp or messaging services",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_7d2493341b77cc3c_device_control",
+      "userId": "usr_7d2493341b77cc3c",
+      "category": "high",
+      "scope": "device_control",
+      "name": "Laptop / System Commands",
+      "description": "Execute privileged hardware or companion commands",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_716b48aae3f15a9b_open_app",
+      "userId": "usr_716b48aae3f15a9b",
+      "category": "low",
+      "scope": "open_app",
+      "name": "Open Allowed Applications",
+      "description": "Launch verified system applications",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_716b48aae3f15a9b_open_url",
+      "userId": "usr_716b48aae3f15a9b",
+      "category": "low",
+      "scope": "open_url",
+      "name": "Open Web Links",
+      "description": "Open requested URLs in default browser",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_716b48aae3f15a9b_modify_files",
+      "userId": "usr_716b48aae3f15a9b",
+      "category": "medium",
+      "scope": "modify_files",
+      "name": "Modify Permitted Files",
+      "description": "Rename or edit authorized user notes and files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_716b48aae3f15a9b_access_protected_files",
+      "userId": "usr_716b48aae3f15a9b",
+      "category": "high",
+      "scope": "access_protected_files",
+      "name": "Access Protected & Secret Resources",
+      "description": "Decrypt and read high-security confidential files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": true
+    },
+    {
+      "id": "perm_usr_716b48aae3f15a9b_external_messages",
+      "userId": "usr_716b48aae3f15a9b",
+      "category": "high",
+      "scope": "external_messages",
+      "name": "Send External Messages",
+      "description": "Transmit messages through WhatsApp or messaging services",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_716b48aae3f15a9b_device_control",
+      "userId": "usr_716b48aae3f15a9b",
+      "category": "high",
+      "scope": "device_control",
+      "name": "Laptop / System Commands",
+      "description": "Execute privileged hardware or companion commands",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_560249722cd83231_open_app",
+      "userId": "usr_560249722cd83231",
+      "category": "low",
+      "scope": "open_app",
+      "name": "Open Allowed Applications",
+      "description": "Launch verified system applications",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_560249722cd83231_open_url",
+      "userId": "usr_560249722cd83231",
+      "category": "low",
+      "scope": "open_url",
+      "name": "Open Web Links",
+      "description": "Open requested URLs in default browser",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_560249722cd83231_modify_files",
+      "userId": "usr_560249722cd83231",
+      "category": "medium",
+      "scope": "modify_files",
+      "name": "Modify Permitted Files",
+      "description": "Rename or edit authorized user notes and files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_560249722cd83231_access_protected_files",
+      "userId": "usr_560249722cd83231",
+      "category": "high",
+      "scope": "access_protected_files",
+      "name": "Access Protected & Secret Resources",
+      "description": "Decrypt and read high-security confidential files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": true
+    },
+    {
+      "id": "perm_usr_560249722cd83231_external_messages",
+      "userId": "usr_560249722cd83231",
+      "category": "high",
+      "scope": "external_messages",
+      "name": "Send External Messages",
+      "description": "Transmit messages through WhatsApp or messaging services",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_560249722cd83231_device_control",
+      "userId": "usr_560249722cd83231",
+      "category": "high",
+      "scope": "device_control",
+      "name": "Laptop / System Commands",
+      "description": "Execute privileged hardware or companion commands",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_43b9fe717ab64943_open_app",
+      "userId": "usr_43b9fe717ab64943",
+      "category": "low",
+      "scope": "open_app",
+      "name": "Open Allowed Applications",
+      "description": "Launch verified system applications",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_43b9fe717ab64943_open_url",
+      "userId": "usr_43b9fe717ab64943",
+      "category": "low",
+      "scope": "open_url",
+      "name": "Open Web Links",
+      "description": "Open requested URLs in default browser",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_43b9fe717ab64943_modify_files",
+      "userId": "usr_43b9fe717ab64943",
+      "category": "medium",
+      "scope": "modify_files",
+      "name": "Modify Permitted Files",
+      "description": "Rename or edit authorized user notes and files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_43b9fe717ab64943_access_protected_files",
+      "userId": "usr_43b9fe717ab64943",
+      "category": "high",
+      "scope": "access_protected_files",
+      "name": "Access Protected & Secret Resources",
+      "description": "Decrypt and read high-security confidential files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": true
+    },
+    {
+      "id": "perm_usr_43b9fe717ab64943_external_messages",
+      "userId": "usr_43b9fe717ab64943",
+      "category": "high",
+      "scope": "external_messages",
+      "name": "Send External Messages",
+      "description": "Transmit messages through WhatsApp or messaging services",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_43b9fe717ab64943_device_control",
+      "userId": "usr_43b9fe717ab64943",
+      "category": "high",
+      "scope": "device_control",
+      "name": "Laptop / System Commands",
+      "description": "Execute privileged hardware or companion commands",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_727a73c1867064cf_open_app",
+      "userId": "usr_727a73c1867064cf",
+      "category": "low",
+      "scope": "open_app",
+      "name": "Open Allowed Applications",
+      "description": "Launch verified system applications",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_727a73c1867064cf_open_url",
+      "userId": "usr_727a73c1867064cf",
+      "category": "low",
+      "scope": "open_url",
+      "name": "Open Web Links",
+      "description": "Open requested URLs in default browser",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_727a73c1867064cf_modify_files",
+      "userId": "usr_727a73c1867064cf",
+      "category": "medium",
+      "scope": "modify_files",
+      "name": "Modify Permitted Files",
+      "description": "Rename or edit authorized user notes and files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_727a73c1867064cf_access_protected_files",
+      "userId": "usr_727a73c1867064cf",
+      "category": "high",
+      "scope": "access_protected_files",
+      "name": "Access Protected & Secret Resources",
+      "description": "Decrypt and read high-security confidential files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": true
+    },
+    {
+      "id": "perm_usr_727a73c1867064cf_external_messages",
+      "userId": "usr_727a73c1867064cf",
+      "category": "high",
+      "scope": "external_messages",
+      "name": "Send External Messages",
+      "description": "Transmit messages through WhatsApp or messaging services",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_727a73c1867064cf_device_control",
+      "userId": "usr_727a73c1867064cf",
+      "category": "high",
+      "scope": "device_control",
+      "name": "Laptop / System Commands",
+      "description": "Execute privileged hardware or companion commands",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_577cb45a90ae0875_open_app",
+      "userId": "usr_577cb45a90ae0875",
+      "category": "low",
+      "scope": "open_app",
+      "name": "Open Allowed Applications",
+      "description": "Launch verified system applications",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_577cb45a90ae0875_open_url",
+      "userId": "usr_577cb45a90ae0875",
+      "category": "low",
+      "scope": "open_url",
+      "name": "Open Web Links",
+      "description": "Open requested URLs in default browser",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_577cb45a90ae0875_modify_files",
+      "userId": "usr_577cb45a90ae0875",
+      "category": "medium",
+      "scope": "modify_files",
+      "name": "Modify Permitted Files",
+      "description": "Rename or edit authorized user notes and files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_577cb45a90ae0875_access_protected_files",
+      "userId": "usr_577cb45a90ae0875",
+      "category": "high",
+      "scope": "access_protected_files",
+      "name": "Access Protected & Secret Resources",
+      "description": "Decrypt and read high-security confidential files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": true
+    },
+    {
+      "id": "perm_usr_577cb45a90ae0875_external_messages",
+      "userId": "usr_577cb45a90ae0875",
+      "category": "high",
+      "scope": "external_messages",
+      "name": "Send External Messages",
+      "description": "Transmit messages through WhatsApp or messaging services",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_577cb45a90ae0875_device_control",
+      "userId": "usr_577cb45a90ae0875",
+      "category": "high",
+      "scope": "device_control",
+      "name": "Laptop / System Commands",
+      "description": "Execute privileged hardware or companion commands",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_ca7080525e12cb27_open_app",
+      "userId": "usr_ca7080525e12cb27",
+      "category": "low",
+      "scope": "open_app",
+      "name": "Open Allowed Applications",
+      "description": "Launch verified system applications",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_ca7080525e12cb27_open_url",
+      "userId": "usr_ca7080525e12cb27",
+      "category": "low",
+      "scope": "open_url",
+      "name": "Open Web Links",
+      "description": "Open requested URLs in default browser",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_ca7080525e12cb27_modify_files",
+      "userId": "usr_ca7080525e12cb27",
+      "category": "medium",
+      "scope": "modify_files",
+      "name": "Modify Permitted Files",
+      "description": "Rename or edit authorized user notes and files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_ca7080525e12cb27_access_protected_files",
+      "userId": "usr_ca7080525e12cb27",
+      "category": "high",
+      "scope": "access_protected_files",
+      "name": "Access Protected & Secret Resources",
+      "description": "Decrypt and read high-security confidential files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": true
+    },
+    {
+      "id": "perm_usr_ca7080525e12cb27_external_messages",
+      "userId": "usr_ca7080525e12cb27",
+      "category": "high",
+      "scope": "external_messages",
+      "name": "Send External Messages",
+      "description": "Transmit messages through WhatsApp or messaging services",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_ca7080525e12cb27_device_control",
+      "userId": "usr_ca7080525e12cb27",
+      "category": "high",
+      "scope": "device_control",
+      "name": "Laptop / System Commands",
+      "description": "Execute privileged hardware or companion commands",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_e5bdb90447542221_open_app",
+      "userId": "usr_e5bdb90447542221",
+      "category": "low",
+      "scope": "open_app",
+      "name": "Open Allowed Applications",
+      "description": "Launch verified system applications",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_e5bdb90447542221_open_url",
+      "userId": "usr_e5bdb90447542221",
+      "category": "low",
+      "scope": "open_url",
+      "name": "Open Web Links",
+      "description": "Open requested URLs in default browser",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_e5bdb90447542221_modify_files",
+      "userId": "usr_e5bdb90447542221",
+      "category": "medium",
+      "scope": "modify_files",
+      "name": "Modify Permitted Files",
+      "description": "Rename or edit authorized user notes and files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_e5bdb90447542221_access_protected_files",
+      "userId": "usr_e5bdb90447542221",
+      "category": "high",
+      "scope": "access_protected_files",
+      "name": "Access Protected & Secret Resources",
+      "description": "Decrypt and read high-security confidential files",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": true
+    },
+    {
+      "id": "perm_usr_e5bdb90447542221_external_messages",
+      "userId": "usr_e5bdb90447542221",
+      "category": "high",
+      "scope": "external_messages",
+      "name": "Send External Messages",
+      "description": "Transmit messages through WhatsApp or messaging services",
+      "granted": true,
+      "requiresConfirmation": true,
+      "requiresSecurityCode": false
+    },
+    {
+      "id": "perm_usr_e5bdb90447542221_device_control",
+      "userId": "usr_e5bdb90447542221",
+      "category": "high",
+      "scope": "device_control",
+      "name": "Laptop / System Commands",
+      "description": "Execute privileged hardware or companion commands",
+      "granted": true,
+      "requiresConfirmation": false,
+      "requiresSecurityCode": false
+    }
+  ],
+  "protectedResources": [
+    {
+      "id": "sec_res_a1",
+      "userId": "usr_owner_alpha_01",
+      "title": "Project Obsidian - Executive Master Keys & Server Manifest",
+      "resourceType": "credential",
+      "content": "CONFIDENTIAL: Production cluster token sha256:7f01c9a8bb4... Emergency failover IP: 10.142.8.19. Primary master key verified under security code protocol 18.",
+      "securityLevel": "high",
+      "createdAt": "2026-09-27T15:26:23.550Z"
+    },
+    {
+      "id": "sec_res_b1",
+      "userId": "usr_guest_beta_02",
+      "title": "Sarah Connor Secret Mission Notes",
+      "resourceType": "document",
+      "content": "TOP SECRET CONNOR: Cyberdyne audit logs and escape route waypoint 42.",
+      "securityLevel": "high",
+      "createdAt": "2026-09-28T15:26:23.550Z"
+    },
+    {
+      "id": "sec_res_1179ead0c0a5",
+      "userId": "usr_7d2493341b77cc3c",
+      "title": "Master Server Vault Credentials",
+      "resourceType": "credential",
+      "content": "PROD_ROOT_SSH_KEY_9942",
+      "securityLevel": "high",
+      "createdAt": "2026-09-28T15:26:58.311Z"
+    },
+    {
+      "id": "sec_res_f4ae3b6be541",
+      "userId": "usr_560249722cd83231",
+      "title": "Master Server Vault Credentials",
+      "resourceType": "credential",
+      "content": "PROD_ROOT_SSH_KEY_9942",
+      "securityLevel": "high",
+      "createdAt": "2026-09-28T15:35:24.151Z"
+    },
+    {
+      "id": "sec_res_3ff1c1bdad13",
+      "userId": "usr_727a73c1867064cf",
+      "title": "Master Server Vault Credentials",
+      "resourceType": "credential",
+      "content": "PROD_ROOT_SSH_KEY_9942",
+      "securityLevel": "high",
+      "createdAt": "2026-09-28T15:35:49.677Z"
+    },
+    {
+      "id": "sec_res_2a9470af8caf",
+      "userId": "usr_ca7080525e12cb27",
+      "title": "Master Server Vault Credentials",
+      "resourceType": "credential",
+      "content": "PROD_ROOT_SSH_KEY_9942",
+      "securityLevel": "high",
+      "createdAt": "2026-09-28T16:04:16.061Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log_01d76b3d0dec",
+      "userId": "usr_7d2493341b77cc3c",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T15:26:58.313Z",
+      "status": "BLOCKED",
+      "details": "Failed security code attempt on resource sec_res_1179ead0c0a5",
+      "permissionContext": "security_code_18"
+    },
+    {
+      "id": "log_6acbd08223ea",
+      "userId": "usr_7d2493341b77cc3c",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T15:26:58.315Z",
+      "status": "SUCCESS",
+      "details": "Authorized access to protected resource: Master Server Vault Credentials",
+      "permissionContext": "security_code_verified"
+    },
+    {
+      "id": "log_0e62dac024ad",
+      "userId": "usr_716b48aae3f15a9b",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T15:26:58.317Z",
+      "status": "FAILURE",
+      "details": "Resource not found or unauthorized: sec_res_1179ead0c0a5",
+      "permissionContext": "user_isolation"
+    },
+    {
+      "id": "log_20bfcc392679",
+      "userId": "usr_7d2493341b77cc3c",
+      "deviceId": null,
+      "actionType": "whatsapp_send",
+      "timestamp": "2026-09-28T15:26:58.318Z",
+      "status": "NEEDS_NATIVE_UNLOCK",
+      "details": "Access blocked due to native WhatsApp Chat Lock",
+      "permissionContext": "native_security_enforcement"
+    },
+    {
+      "id": "log_54cb84efd6e5",
+      "userId": "usr_7d2493341b77cc3c",
+      "deviceId": "dev_ce90867b95fb",
+      "actionType": "open_app",
+      "timestamp": "2026-09-28T15:26:58.319Z",
+      "status": "FAILURE",
+      "details": "Attempted to open VS Code on offline device 'Authorized Windows Laptop'",
+      "permissionContext": "device_offline"
+    },
+    {
+      "id": "log_e0e277b81a50",
+      "userId": "usr_7d2493341b77cc3c",
+      "deviceId": "dev_ce90867b95fb",
+      "actionType": "open_app",
+      "timestamp": "2026-09-28T15:26:58.320Z",
+      "status": "SUCCESS",
+      "details": "Successfully executed launch of application: VS Code on Authorized Windows Laptop",
+      "permissionContext": "open_app"
+    },
+    {
+      "id": "log_89d52bd40577",
+      "userId": "usr_7d2493341b77cc3c",
+      "deviceId": null,
+      "actionType": "video_editor",
+      "timestamp": "2026-09-28T15:26:58.320Z",
+      "status": "FAILURE",
+      "details": "Requested unsupported capability: apply_filter",
+      "permissionContext": "capability_check"
+    },
+    {
+      "id": "log_6a528677c3fa",
+      "userId": "usr_7d2493341b77cc3c",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T15:26:58.711Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_5db534fe772e",
+      "userId": "usr_7d2493341b77cc3c",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T15:26:59.577Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_fdc2c3ec8eb8",
+      "userId": "usr_owner_alpha_01",
+      "deviceId": null,
+      "actionType": "create_reminder",
+      "timestamp": "2026-09-28T15:30:11.110Z",
+      "status": "SUCCESS",
+      "details": "Created persistent reminder for 9/29/2026, 8:00:00 PM",
+      "permissionContext": "reminder_scheduler"
+    },
+    {
+      "id": "log_5da3b49f0982",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T15:35:24.153Z",
+      "status": "BLOCKED",
+      "details": "Failed security code attempt on resource sec_res_f4ae3b6be541",
+      "permissionContext": "security_code_18"
+    },
+    {
+      "id": "log_db5e6bef88b4",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T15:35:24.155Z",
+      "status": "SUCCESS",
+      "details": "Authorized access to protected resource: Master Server Vault Credentials",
+      "permissionContext": "security_code_verified"
+    },
+    {
+      "id": "log_b6255c0503d4",
+      "userId": "usr_43b9fe717ab64943",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T15:35:24.158Z",
+      "status": "FAILURE",
+      "details": "Resource not found or unauthorized: sec_res_f4ae3b6be541",
+      "permissionContext": "user_isolation"
+    },
+    {
+      "id": "log_4cb9f3a1ca5e",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "whatsapp_send",
+      "timestamp": "2026-09-28T15:35:24.158Z",
+      "status": "NEEDS_NATIVE_UNLOCK",
+      "details": "Access blocked due to native WhatsApp Chat Lock",
+      "permissionContext": "native_security_enforcement"
+    },
+    {
+      "id": "log_22d24a126bc6",
+      "userId": "usr_560249722cd83231",
+      "deviceId": "dev_3cf831b352d2",
+      "actionType": "open_app",
+      "timestamp": "2026-09-28T15:35:24.159Z",
+      "status": "FAILURE",
+      "details": "Attempted to open VS Code on offline device 'Authorized Windows Laptop'",
+      "permissionContext": "device_offline"
+    },
+    {
+      "id": "log_4523c19dc045",
+      "userId": "usr_560249722cd83231",
+      "deviceId": "dev_3cf831b352d2",
+      "actionType": "open_app",
+      "timestamp": "2026-09-28T15:35:24.160Z",
+      "status": "SUCCESS",
+      "details": "Successfully executed launch of application: VS Code on Authorized Windows Laptop",
+      "permissionContext": "open_app"
+    },
+    {
+      "id": "log_6399e5768c7b",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "video_editor",
+      "timestamp": "2026-09-28T15:35:24.161Z",
+      "status": "FAILURE",
+      "details": "Requested unsupported capability: apply_filter",
+      "permissionContext": "capability_check"
+    },
+    {
+      "id": "log_ffc6e34e2c12",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T15:35:24.621Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_1bcaa5e96eb5",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T15:35:26.762Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_d3fca60c4052",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T15:35:27.540Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_b274fe84e1ce",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "cancel_operation",
+      "timestamp": "2026-09-28T15:35:27.544Z",
+      "status": "SUCCESS",
+      "details": "User requested cancellation",
+      "permissionContext": "user_intent"
+    },
+    {
+      "id": "log_5d2474e8bc67",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "create_reminder",
+      "timestamp": "2026-09-28T15:35:27.546Z",
+      "status": "SUCCESS",
+      "details": "Created persistent reminder for 9/29/2026, 8:00:00 PM",
+      "permissionContext": "reminder_scheduler"
+    },
+    {
+      "id": "log_9ae1c034d337",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "undo_action",
+      "timestamp": "2026-09-28T15:35:27.549Z",
+      "status": "SUCCESS",
+      "details": "Reversed reminder creation (Reminder: \"tomorrow at 8 PM for team standup review\")",
+      "permissionContext": "undo_manager"
+    },
+    {
+      "id": "log_46caefafca8c",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "save_memory",
+      "timestamp": "2026-09-28T15:35:27.551Z",
+      "status": "SUCCESS",
+      "details": "Saved memory: \"my temporary wifi code is echo99\"",
+      "permissionContext": "memory_service"
+    },
+    {
+      "id": "log_9cd239e1a6f3",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "delete_memory",
+      "timestamp": "2026-09-28T15:35:27.554Z",
+      "status": "SUCCESS",
+      "details": "Deleted memory \"my temporary wifi code is echo99\" via user command",
+      "permissionContext": "memory_control"
+    },
+    {
+      "id": "log_d0afc42e8a84",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "system_status",
+      "timestamp": "2026-09-28T15:35:27.555Z",
+      "status": "SUCCESS",
+      "details": "Queried system status",
+      "permissionContext": "status_check"
+    },
+    {
+      "id": "log_ec2af36614d2",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "open_url",
+      "timestamp": "2026-09-28T15:35:27.556Z",
+      "status": "SUCCESS",
+      "details": "Opened browser URL: https://google.com",
+      "permissionContext": "open_url"
+    },
+    {
+      "id": "log_86607e866c63",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "create_reminder",
+      "timestamp": "2026-09-28T15:35:27.556Z",
+      "status": "FAILURE",
+      "details": "Unknown action requested: create_reminder",
+      "permissionContext": "unrecognized_action"
+    },
+    {
+      "id": "log_882d9f935753",
+      "userId": "usr_560249722cd83231",
+      "deviceId": null,
+      "actionType": "multi_step_plan",
+      "timestamp": "2026-09-28T15:35:27.557Z",
+      "status": "FAILURE",
+      "details": "Executed multi-step plan with 3 steps",
+      "permissionContext": "task_planner"
+    },
+    {
+      "id": "log_128b0cc3fd46",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T15:35:49.680Z",
+      "status": "BLOCKED",
+      "details": "Failed security code attempt on resource sec_res_3ff1c1bdad13",
+      "permissionContext": "security_code_18"
+    },
+    {
+      "id": "log_074ca7dc43db",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T15:35:49.682Z",
+      "status": "SUCCESS",
+      "details": "Authorized access to protected resource: Master Server Vault Credentials",
+      "permissionContext": "security_code_verified"
+    },
+    {
+      "id": "log_11e63b11b48c",
+      "userId": "usr_577cb45a90ae0875",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T15:35:49.684Z",
+      "status": "FAILURE",
+      "details": "Resource not found or unauthorized: sec_res_3ff1c1bdad13",
+      "permissionContext": "user_isolation"
+    },
+    {
+      "id": "log_4e3995992bb4",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "whatsapp_send",
+      "timestamp": "2026-09-28T15:35:49.686Z",
+      "status": "NEEDS_NATIVE_UNLOCK",
+      "details": "Access blocked due to native WhatsApp Chat Lock",
+      "permissionContext": "native_security_enforcement"
+    },
+    {
+      "id": "log_abfa0ef6d4e7",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": "dev_ea29ea6ad75a",
+      "actionType": "open_app",
+      "timestamp": "2026-09-28T15:35:49.687Z",
+      "status": "FAILURE",
+      "details": "Attempted to open VS Code on offline device 'Authorized Windows Laptop'",
+      "permissionContext": "device_offline"
+    },
+    {
+      "id": "log_f913227f2ee4",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": "dev_ea29ea6ad75a",
+      "actionType": "open_app",
+      "timestamp": "2026-09-28T15:35:49.688Z",
+      "status": "SUCCESS",
+      "details": "Successfully executed launch of application: VS Code on Authorized Windows Laptop",
+      "permissionContext": "open_app"
+    },
+    {
+      "id": "log_994a449d01c4",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "video_editor",
+      "timestamp": "2026-09-28T15:35:49.689Z",
+      "status": "FAILURE",
+      "details": "Requested unsupported capability: apply_filter",
+      "permissionContext": "capability_check"
+    },
+    {
+      "id": "log_a1fc6089d627",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T15:35:50.127Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_b531f8ee29d3",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T15:35:51.876Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_7b36d9eda662",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T15:35:55.710Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_cd18e622cf27",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "cancel_operation",
+      "timestamp": "2026-09-28T15:35:55.716Z",
+      "status": "SUCCESS",
+      "details": "User requested cancellation",
+      "permissionContext": "user_intent"
+    },
+    {
+      "id": "log_28af1ef1836b",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "create_reminder",
+      "timestamp": "2026-09-28T15:35:55.719Z",
+      "status": "SUCCESS",
+      "details": "Created persistent reminder for 9/29/2026, 8:00:00 PM",
+      "permissionContext": "reminder_scheduler"
+    },
+    {
+      "id": "log_a48c5ccea6bd",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "undo_action",
+      "timestamp": "2026-09-28T15:35:55.723Z",
+      "status": "SUCCESS",
+      "details": "Reversed reminder creation (Reminder: \"tomorrow at 8 PM for team standup review\")",
+      "permissionContext": "undo_manager"
+    },
+    {
+      "id": "log_69ade83c2798",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "save_memory",
+      "timestamp": "2026-09-28T15:35:55.725Z",
+      "status": "SUCCESS",
+      "details": "Saved memory: \"my temporary wifi code is echo99\"",
+      "permissionContext": "memory_service"
+    },
+    {
+      "id": "log_0e07a91190d6",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "delete_memory",
+      "timestamp": "2026-09-28T15:35:55.728Z",
+      "status": "SUCCESS",
+      "details": "Deleted memory \"my temporary wifi code is echo99\" via user command",
+      "permissionContext": "memory_control"
+    },
+    {
+      "id": "log_9391f026d5ee",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "system_status",
+      "timestamp": "2026-09-28T15:35:55.730Z",
+      "status": "SUCCESS",
+      "details": "Queried system status",
+      "permissionContext": "status_check"
+    },
+    {
+      "id": "log_341dbdc64c83",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "open_url",
+      "timestamp": "2026-09-28T15:35:55.731Z",
+      "status": "SUCCESS",
+      "details": "Opened browser URL: https://google.com",
+      "permissionContext": "open_url"
+    },
+    {
+      "id": "log_b3b1a5d93b9c",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "create_reminder",
+      "timestamp": "2026-09-28T15:35:55.732Z",
+      "status": "SUCCESS",
+      "details": "Created reminder \"Scheduled meeting review\" for 2026-09-29T15:35:55.730Z",
+      "permissionContext": "reminder_scheduler"
+    },
+    {
+      "id": "log_391a51ea01e2",
+      "userId": "usr_727a73c1867064cf",
+      "deviceId": null,
+      "actionType": "multi_step_plan",
+      "timestamp": "2026-09-28T15:35:55.733Z",
+      "status": "SUCCESS",
+      "details": "Executed multi-step plan with 3 steps",
+      "permissionContext": "task_planner"
+    },
+    {
+      "id": "log_bde9a9230a5a",
+      "userId": "usr_owner_alpha_01",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T15:36:54.184Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_1b147356d4fb",
+      "userId": "usr_owner_alpha_01",
+      "deviceId": "dev_win_laptop_a",
+      "actionType": "device_status_change",
+      "timestamp": "2026-09-28T16:00:51.264Z",
+      "status": "SUCCESS",
+      "details": "Device 'ThinkPad X1 Carbon (Windows 11)' set to offline",
+      "permissionContext": "device_management"
+    },
+    {
+      "id": "log_72c94927ecf1",
+      "userId": "usr_owner_alpha_01",
+      "deviceId": "dev_win_laptop_a",
+      "actionType": "device_status_change",
+      "timestamp": "2026-09-28T16:00:53.728Z",
+      "status": "SUCCESS",
+      "details": "Device 'ThinkPad X1 Carbon (Windows 11)' set to online",
+      "permissionContext": "device_management"
+    },
+    {
+      "id": "log_a01a1ebe44ca",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T16:04:16.063Z",
+      "status": "BLOCKED",
+      "details": "Failed security code attempt on resource sec_res_2a9470af8caf",
+      "permissionContext": "security_code_18"
+    },
+    {
+      "id": "log_fe8745381ed2",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T16:04:16.065Z",
+      "status": "SUCCESS",
+      "details": "Authorized access to protected resource: Master Server Vault Credentials",
+      "permissionContext": "security_code_verified"
+    },
+    {
+      "id": "log_ade8726cae70",
+      "userId": "usr_e5bdb90447542221",
+      "deviceId": null,
+      "actionType": "access_protected_resource",
+      "timestamp": "2026-09-28T16:04:16.068Z",
+      "status": "FAILURE",
+      "details": "Resource not found or unauthorized: sec_res_2a9470af8caf",
+      "permissionContext": "user_isolation"
+    },
+    {
+      "id": "log_fb90423aa077",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "whatsapp_send",
+      "timestamp": "2026-09-28T16:04:16.069Z",
+      "status": "NEEDS_NATIVE_UNLOCK",
+      "details": "Access blocked due to native WhatsApp Chat Lock",
+      "permissionContext": "native_security_enforcement"
+    },
+    {
+      "id": "log_baf9cf6dfad5",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": "dev_0c76f5fd3cd7",
+      "actionType": "open_app",
+      "timestamp": "2026-09-28T16:04:16.071Z",
+      "status": "FAILURE",
+      "details": "Attempted to open VS Code on offline device 'Authorized Windows Laptop'",
+      "permissionContext": "device_offline"
+    },
+    {
+      "id": "log_e0edc1407c3c",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": "dev_0c76f5fd3cd7",
+      "actionType": "open_app",
+      "timestamp": "2026-09-28T16:04:16.073Z",
+      "status": "SUCCESS",
+      "details": "Successfully executed launch of application: VS Code on Authorized Windows Laptop",
+      "permissionContext": "open_app"
+    },
+    {
+      "id": "log_1b770f3f63b2",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "video_editor",
+      "timestamp": "2026-09-28T16:04:16.073Z",
+      "status": "FAILURE",
+      "details": "Requested unsupported capability: apply_filter",
+      "permissionContext": "capability_check"
+    },
+    {
+      "id": "log_3e4ca3700c44",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T16:04:16.438Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_1f73515c72a1",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T16:04:17.583Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_1096eb42f3dd",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "ai_query",
+      "timestamp": "2026-09-28T16:04:19.858Z",
+      "status": "FAILURE",
+      "details": "AI reasoning engine unavailable: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "permissionContext": "gemini_service"
+    },
+    {
+      "id": "log_791e49fe03dc",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "cancel_operation",
+      "timestamp": "2026-09-28T16:04:19.866Z",
+      "status": "SUCCESS",
+      "details": "User requested cancellation",
+      "permissionContext": "user_intent"
+    },
+    {
+      "id": "log_21eef6c654ad",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "create_reminder",
+      "timestamp": "2026-09-28T16:04:19.870Z",
+      "status": "SUCCESS",
+      "details": "Created persistent reminder for 9/29/2026, 8:00:00 PM",
+      "permissionContext": "reminder_scheduler"
+    },
+    {
+      "id": "log_698f8ee6c34c",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "undo_action",
+      "timestamp": "2026-09-28T16:04:19.875Z",
+      "status": "SUCCESS",
+      "details": "Reversed reminder creation (Reminder: \"tomorrow at 8 PM for team standup review\")",
+      "permissionContext": "undo_manager"
+    },
+    {
+      "id": "log_898dab4e6ded",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "save_memory",
+      "timestamp": "2026-09-28T16:04:19.879Z",
+      "status": "SUCCESS",
+      "details": "Saved memory: \"my temporary wifi code is echo99\"",
+      "permissionContext": "memory_service"
+    },
+    {
+      "id": "log_c8db8b37ddb7",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "delete_memory",
+      "timestamp": "2026-09-28T16:04:19.883Z",
+      "status": "SUCCESS",
+      "details": "Deleted memory \"my temporary wifi code is echo99\" via user command",
+      "permissionContext": "memory_control"
+    },
+    {
+      "id": "log_7570b9686940",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "system_status",
+      "timestamp": "2026-09-28T16:04:19.887Z",
+      "status": "SUCCESS",
+      "details": "Queried system status",
+      "permissionContext": "status_check"
+    },
+    {
+      "id": "log_37487cb48208",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "open_url",
+      "timestamp": "2026-09-28T16:04:19.888Z",
+      "status": "SUCCESS",
+      "details": "Opened browser URL: https://google.com",
+      "permissionContext": "open_url"
+    },
+    {
+      "id": "log_3b96785af6e0",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "create_reminder",
+      "timestamp": "2026-09-28T16:04:19.890Z",
+      "status": "SUCCESS",
+      "details": "Created reminder \"Scheduled meeting review\" for 2026-09-29T16:04:19.887Z",
+      "permissionContext": "reminder_scheduler"
+    },
+    {
+      "id": "log_f310ae479702",
+      "userId": "usr_ca7080525e12cb27",
+      "deviceId": null,
+      "actionType": "multi_step_plan",
+      "timestamp": "2026-09-28T16:04:19.891Z",
+      "status": "SUCCESS",
+      "details": "Executed multi-step plan with 3 steps",
+      "permissionContext": "task_planner"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_570fc7cbd2f5",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "What is today's latest technology news?",
+      "timestamp": "2026-09-28T15:35:24.162Z"
+    },
+    {
+      "id": "msg_14e234aae860",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "I encountered an issue connecting to the AI reasoning service: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}. Please verify your API settings or retry.",
+      "timestamp": "2026-09-28T15:35:24.622Z"
+    },
+    {
+      "id": "msg_2bbfab3a85cc",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "Force test verification path",
+      "timestamp": "2026-09-28T15:35:24.622Z"
+    },
+    {
+      "id": "msg_288295b95b27",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "I encountered an issue connecting to the AI reasoning service: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}. Please verify your API settings or retry.",
+      "timestamp": "2026-09-28T15:35:26.762Z"
+    },
+    {
+      "id": "msg_453372197db3",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "My favorite editor is Neovim",
+      "timestamp": "2026-09-28T15:35:26.763Z"
+    },
+    {
+      "id": "msg_6a5f4cebb683",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "I encountered an issue connecting to the AI reasoning service: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}. Please verify your API settings or retry.",
+      "timestamp": "2026-09-28T15:35:27.541Z"
+    },
+    {
+      "id": "msg_0d5566d1dffd",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "What did I tell you earlier?",
+      "timestamp": "2026-09-28T15:35:27.541Z"
+    },
+    {
+      "id": "msg_f492c7852205",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "Earlier you mentioned: \"Force test verification path\", \"My favorite editor is Neovim\".",
+      "timestamp": "2026-09-28T15:35:27.542Z"
+    },
+    {
+      "id": "msg_eb60b77d6740",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "Send this message",
+      "timestamp": "2026-09-28T15:35:27.542Z"
+    },
+    {
+      "id": "msg_080e8e3d9fa9",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "Which contact should I send this message to?",
+      "timestamp": "2026-09-28T15:35:27.543Z"
+    },
+    {
+      "id": "msg_bce5311ceeac",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "Cancel",
+      "timestamp": "2026-09-28T15:35:27.544Z"
+    },
+    {
+      "id": "msg_844cc8fbd2f7",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "Operation cancelled.",
+      "timestamp": "2026-09-28T15:35:27.545Z"
+    },
+    {
+      "id": "msg_95db74c9d9ba",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "Remind me tomorrow at 8 PM for team standup review",
+      "timestamp": "2026-09-28T15:35:27.545Z"
+    },
+    {
+      "id": "msg_aad4032f1f56",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "Reminder confirmed for tomorrow at 8:00 PM: \"tomorrow at 8 PM for team standup review\".",
+      "timestamp": "2026-09-28T15:35:27.548Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "Reminder confirmed for tomorrow at 8:00 PM: \"tomorrow at 8 PM for team standup review\".",
+        "data": {
+          "id": "rem_aeeb5599e805",
+          "userId": "usr_560249722cd83231",
+          "text": "tomorrow at 8 PM for team standup review",
+          "scheduledTime": "2026-09-29T20:00:00.000Z",
+          "timezone": "UTC",
+          "status": "pending",
+          "notificationChannel": "in_app",
+          "createdAt": "2026-09-28T15:35:27.546Z"
+        }
+      }
+    },
+    {
+      "id": "msg_778bd791ac07",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "SR undo that",
+      "timestamp": "2026-09-28T15:35:27.548Z"
+    },
+    {
+      "id": "msg_21a56c153784",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "Undone: Successfully cancelled and removed the reminder: \"tomorrow at 8 PM for team standup review\".",
+      "timestamp": "2026-09-28T15:35:27.550Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "Undone: Successfully cancelled and removed the reminder: \"tomorrow at 8 PM for team standup review\".",
+        "data": {
+          "reverted": "create_reminder",
+          "id": "rem_aeeb5599e805"
+        }
+      }
+    },
+    {
+      "id": "msg_e95cf4cd18fb",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "SR remember that my temporary wifi code is Echo99",
+      "timestamp": "2026-09-28T15:35:27.550Z"
+    },
+    {
+      "id": "msg_5b411253cd09",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "I've saved this to your memory: \"my temporary wifi code is echo99\"",
+      "timestamp": "2026-09-28T15:35:27.553Z"
+    },
+    {
+      "id": "msg_9e9ec2df3365",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "Forget that",
+      "timestamp": "2026-09-28T15:35:27.553Z"
+    },
+    {
+      "id": "msg_11d7d2a6525e",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "Understood. I have deleted that memory: \"my temporary wifi code is echo99\".",
+      "timestamp": "2026-09-28T15:35:27.554Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "Understood. I have deleted that memory: \"my temporary wifi code is echo99\"."
+      }
+    },
+    {
+      "id": "msg_9275d423e830",
+      "userId": "usr_560249722cd83231",
+      "role": "user",
+      "text": "Check calendar status, open browser and schedule a reminder for tomorrow",
+      "timestamp": "2026-09-28T15:35:27.555Z"
+    },
+    {
+      "id": "msg_0e0c991b6190",
+      "userId": "usr_560249722cd83231",
+      "role": "assistant",
+      "text": "Task execution stopped due to step failure:\n1. Verify system & device readiness: [SUCCESS] System operational: 1 of 1 devices online. 3 active integrations.\n2. Open workstation browser: [SUCCESS] Opened https://google.com in your default browser.\n3. Schedule meeting reminder: [UNAVAILABLE] The action 'create_reminder' is not supported by SR's capability registry.",
+      "timestamp": "2026-09-28T15:35:27.557Z",
+      "intent": "FAILURE",
+      "actionResult": {
+        "success": false,
+        "status": "FAILURE",
+        "message": "Task execution stopped due to step failure:\n1. Verify system & device readiness: [SUCCESS] System operational: 1 of 1 devices online. 3 active integrations.\n2. Open workstation browser: [SUCCESS] Opened https://google.com in your default browser.\n3. Schedule meeting reminder: [UNAVAILABLE] The action 'create_reminder' is not supported by SR's capability registry.",
+        "data": {
+          "steps": [
+            {
+              "label": "Verify system & device readiness",
+              "status": "SUCCESS",
+              "message": "System operational: 1 of 1 devices online. 3 active integrations."
+            },
+            {
+              "label": "Open workstation browser",
+              "status": "SUCCESS",
+              "message": "Opened https://google.com in your default browser."
+            },
+            {
+              "label": "Schedule meeting reminder",
+              "status": "UNAVAILABLE",
+              "message": "The action 'create_reminder' is not supported by SR's capability registry."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "msg_f30266328875",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "What is today's latest technology news?",
+      "timestamp": "2026-09-28T15:35:49.690Z"
+    },
+    {
+      "id": "msg_5041ec36b6a3",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "I encountered an issue connecting to the AI reasoning service: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}. Please verify your API settings or retry.",
+      "timestamp": "2026-09-28T15:35:50.128Z"
+    },
+    {
+      "id": "msg_1deb68d2aa2d",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "Force test verification path",
+      "timestamp": "2026-09-28T15:35:50.129Z"
+    },
+    {
+      "id": "msg_2e144458089f",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "I encountered an issue connecting to the AI reasoning service: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}. Please verify your API settings or retry.",
+      "timestamp": "2026-09-28T15:35:51.877Z"
+    },
+    {
+      "id": "msg_c76798e343ba",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "My favorite editor is Neovim",
+      "timestamp": "2026-09-28T15:35:51.877Z"
+    },
+    {
+      "id": "msg_90f74a9e1074",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "I encountered an issue connecting to the AI reasoning service: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}. Please verify your API settings or retry.",
+      "timestamp": "2026-09-28T15:35:55.711Z"
+    },
+    {
+      "id": "msg_9758ddcc1d77",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "What did I tell you earlier?",
+      "timestamp": "2026-09-28T15:35:55.711Z"
+    },
+    {
+      "id": "msg_e528a85f6341",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "Earlier you mentioned: \"Force test verification path\", \"My favorite editor is Neovim\".",
+      "timestamp": "2026-09-28T15:35:55.713Z"
+    },
+    {
+      "id": "msg_701c17094588",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "Send this message",
+      "timestamp": "2026-09-28T15:35:55.713Z"
+    },
+    {
+      "id": "msg_e1bbe1d88d8a",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "Which contact should I send this message to?",
+      "timestamp": "2026-09-28T15:35:55.714Z"
+    },
+    {
+      "id": "msg_84bbb23c45c2",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "Cancel",
+      "timestamp": "2026-09-28T15:35:55.715Z"
+    },
+    {
+      "id": "msg_ecaabd2c95ef",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "Operation cancelled.",
+      "timestamp": "2026-09-28T15:35:55.717Z"
+    },
+    {
+      "id": "msg_be494bce352f",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "Remind me tomorrow at 8 PM for team standup review",
+      "timestamp": "2026-09-28T15:35:55.717Z"
+    },
+    {
+      "id": "msg_1d7045c57f31",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "Reminder confirmed for tomorrow at 8:00 PM: \"tomorrow at 8 PM for team standup review\".",
+      "timestamp": "2026-09-28T15:35:55.721Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "Reminder confirmed for tomorrow at 8:00 PM: \"tomorrow at 8 PM for team standup review\".",
+        "data": {
+          "id": "rem_f5101ebfd3d6",
+          "userId": "usr_727a73c1867064cf",
+          "text": "tomorrow at 8 PM for team standup review",
+          "scheduledTime": "2026-09-29T20:00:00.000Z",
+          "timezone": "UTC",
+          "status": "pending",
+          "notificationChannel": "in_app",
+          "createdAt": "2026-09-28T15:35:55.718Z"
+        }
+      }
+    },
+    {
+      "id": "msg_b73e6525811c",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "SR undo that",
+      "timestamp": "2026-09-28T15:35:55.721Z"
+    },
+    {
+      "id": "msg_729c2bc4badb",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "Undone: Successfully cancelled and removed the reminder: \"tomorrow at 8 PM for team standup review\".",
+      "timestamp": "2026-09-28T15:35:55.724Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "Undone: Successfully cancelled and removed the reminder: \"tomorrow at 8 PM for team standup review\".",
+        "data": {
+          "reverted": "create_reminder",
+          "id": "rem_f5101ebfd3d6"
+        }
+      }
+    },
+    {
+      "id": "msg_32a4c4bce126",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "SR remember that my temporary wifi code is Echo99",
+      "timestamp": "2026-09-28T15:35:55.724Z"
+    },
+    {
+      "id": "msg_51de58f91a7d",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "I've saved this to your memory: \"my temporary wifi code is echo99\"",
+      "timestamp": "2026-09-28T15:35:55.726Z"
+    },
+    {
+      "id": "msg_b1ab56fe361d",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "Forget that",
+      "timestamp": "2026-09-28T15:35:55.727Z"
+    },
+    {
+      "id": "msg_7cdcfca21954",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "Understood. I have deleted that memory: \"my temporary wifi code is echo99\".",
+      "timestamp": "2026-09-28T15:35:55.729Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "Understood. I have deleted that memory: \"my temporary wifi code is echo99\"."
+      }
+    },
+    {
+      "id": "msg_b286a4bd9433",
+      "userId": "usr_727a73c1867064cf",
+      "role": "user",
+      "text": "Check calendar status, open browser and schedule a reminder for tomorrow",
+      "timestamp": "2026-09-28T15:35:55.729Z"
+    },
+    {
+      "id": "msg_1f007d6e701b",
+      "userId": "usr_727a73c1867064cf",
+      "role": "assistant",
+      "text": "All planned steps executed successfully:\n1. Verify system & device readiness: [SUCCESS] System operational: 1 of 1 devices online. 3 active integrations.\n2. Open workstation browser: [SUCCESS] Opened https://google.com in your default browser.\n3. Schedule meeting reminder: [SUCCESS] Reminder scheduled: \"Scheduled meeting review\" for 9/29/2026, 3:35:55 PM.",
+      "timestamp": "2026-09-28T15:35:55.734Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "All planned steps executed successfully:\n1. Verify system & device readiness: [SUCCESS] System operational: 1 of 1 devices online. 3 active integrations.\n2. Open workstation browser: [SUCCESS] Opened https://google.com in your default browser.\n3. Schedule meeting reminder: [SUCCESS] Reminder scheduled: \"Scheduled meeting review\" for 9/29/2026, 3:35:55 PM.",
+        "data": {
+          "steps": [
+            {
+              "label": "Verify system & device readiness",
+              "status": "SUCCESS",
+              "message": "System operational: 1 of 1 devices online. 3 active integrations."
+            },
+            {
+              "label": "Open workstation browser",
+              "status": "SUCCESS",
+              "message": "Opened https://google.com in your default browser."
+            },
+            {
+              "label": "Schedule meeting reminder",
+              "status": "SUCCESS",
+              "message": "Reminder scheduled: \"Scheduled meeting review\" for 9/29/2026, 3:35:55 PM."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "msg_3a78e99e2409",
+      "userId": "usr_owner_alpha_01",
+      "role": "user",
+      "text": "open the chrome",
+      "timestamp": "2026-09-28T15:36:50.174Z"
+    },
+    {
+      "id": "msg_9eb6a2ad61ea",
+      "userId": "usr_owner_alpha_01",
+      "role": "assistant",
+      "text": "I encountered an issue connecting to the AI reasoning service: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}. Please verify your API settings or retry.",
+      "timestamp": "2026-09-28T15:36:54.187Z"
+    },
+    {
+      "id": "msg_bce67bc7b9d5",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "What is today's latest technology news?",
+      "timestamp": "2026-09-28T16:04:16.076Z"
+    },
+    {
+      "id": "msg_38827e17d873",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "I encountered an issue connecting to the AI reasoning service: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}. Please verify your API settings or retry.",
+      "timestamp": "2026-09-28T16:04:16.439Z"
+    },
+    {
+      "id": "msg_b7c760e94597",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "Force test verification path",
+      "timestamp": "2026-09-28T16:04:16.440Z"
+    },
+    {
+      "id": "msg_1b061cdc737c",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "I encountered an issue connecting to the AI reasoning service: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}. Please verify your API settings or retry.",
+      "timestamp": "2026-09-28T16:04:17.584Z"
+    },
+    {
+      "id": "msg_0dbf9976a4b9",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "My favorite editor is Neovim",
+      "timestamp": "2026-09-28T16:04:17.585Z"
+    },
+    {
+      "id": "msg_300f69827b26",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "I encountered an issue connecting to the AI reasoning service: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}. Please verify your API settings or retry.",
+      "timestamp": "2026-09-28T16:04:19.859Z"
+    },
+    {
+      "id": "msg_5a3366c55313",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "What did I tell you earlier?",
+      "timestamp": "2026-09-28T16:04:19.860Z"
+    },
+    {
+      "id": "msg_d4063037b115",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "Earlier you mentioned: \"Force test verification path\", \"My favorite editor is Neovim\".",
+      "timestamp": "2026-09-28T16:04:19.861Z"
+    },
+    {
+      "id": "msg_bb2ae3f75a61",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "Send this message",
+      "timestamp": "2026-09-28T16:04:19.862Z"
+    },
+    {
+      "id": "msg_3a4df5f22826",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "Which contact should I send this message to?",
+      "timestamp": "2026-09-28T16:04:19.864Z"
+    },
+    {
+      "id": "msg_de18c2c10d8e",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "Cancel",
+      "timestamp": "2026-09-28T16:04:19.865Z"
+    },
+    {
+      "id": "msg_ceba6bdfd4ed",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "Operation cancelled.",
+      "timestamp": "2026-09-28T16:04:19.867Z"
+    },
+    {
+      "id": "msg_07a50ca4a471",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "Remind me tomorrow at 8 PM for team standup review",
+      "timestamp": "2026-09-28T16:04:19.868Z"
+    },
+    {
+      "id": "msg_2584eac32c3e",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "Reminder confirmed for tomorrow at 8:00 PM: \"tomorrow at 8 PM for team standup review\".",
+      "timestamp": "2026-09-28T16:04:19.872Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "Reminder confirmed for tomorrow at 8:00 PM: \"tomorrow at 8 PM for team standup review\".",
+        "data": {
+          "id": "rem_342e18592d7e",
+          "userId": "usr_ca7080525e12cb27",
+          "text": "tomorrow at 8 PM for team standup review",
+          "scheduledTime": "2026-09-29T20:00:00.000Z",
+          "timezone": "UTC",
+          "status": "pending",
+          "notificationChannel": "in_app",
+          "createdAt": "2026-09-28T16:04:19.869Z"
+        }
+      }
+    },
+    {
+      "id": "msg_94ff377f8c04",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "SR undo that",
+      "timestamp": "2026-09-28T16:04:19.873Z"
+    },
+    {
+      "id": "msg_34ca48908cf2",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "Undone: Successfully cancelled and removed the reminder: \"tomorrow at 8 PM for team standup review\".",
+      "timestamp": "2026-09-28T16:04:19.876Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "Undone: Successfully cancelled and removed the reminder: \"tomorrow at 8 PM for team standup review\".",
+        "data": {
+          "reverted": "create_reminder",
+          "id": "rem_342e18592d7e"
+        }
+      }
+    },
+    {
+      "id": "msg_9f43bd3042c7",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "SR remember that my temporary wifi code is Echo99",
+      "timestamp": "2026-09-28T16:04:19.877Z"
+    },
+    {
+      "id": "msg_ae10463781e1",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "I've saved this to your memory: \"my temporary wifi code is echo99\"",
+      "timestamp": "2026-09-28T16:04:19.881Z"
+    },
+    {
+      "id": "msg_d2ae4779f795",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "Forget that",
+      "timestamp": "2026-09-28T16:04:19.881Z"
+    },
+    {
+      "id": "msg_8bc74fcea883",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "Understood. I have deleted that memory: \"my temporary wifi code is echo99\".",
+      "timestamp": "2026-09-28T16:04:19.884Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "Understood. I have deleted that memory: \"my temporary wifi code is echo99\"."
+      }
+    },
+    {
+      "id": "msg_8e212b95d6ef",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "user",
+      "text": "Check calendar status, open browser and schedule a reminder for tomorrow",
+      "timestamp": "2026-09-28T16:04:19.886Z"
+    },
+    {
+      "id": "msg_96182178cfa5",
+      "userId": "usr_ca7080525e12cb27",
+      "role": "assistant",
+      "text": "All planned steps executed successfully:\n1. Verify system & device readiness: [SUCCESS] System operational: 1 of 1 devices online. 3 active integrations.\n2. Open workstation browser: [SUCCESS] Opened https://google.com in your default browser.\n3. Schedule meeting reminder: [SUCCESS] Reminder scheduled: \"Scheduled meeting review\" for 9/29/2026, 4:04:19 PM.",
+      "timestamp": "2026-09-28T16:04:19.892Z",
+      "intent": "SUCCESS",
+      "actionResult": {
+        "success": true,
+        "status": "SUCCESS",
+        "message": "All planned steps executed successfully:\n1. Verify system & device readiness: [SUCCESS] System operational: 1 of 1 devices online. 3 active integrations.\n2. Open workstation browser: [SUCCESS] Opened https://google.com in your default browser.\n3. Schedule meeting reminder: [SUCCESS] Reminder scheduled: \"Scheduled meeting review\" for 9/29/2026, 4:04:19 PM.",
+        "data": {
+          "steps": [
+            {
+              "label": "Verify system & device readiness",
+              "status": "SUCCESS",
+              "message": "System operational: 1 of 1 devices online. 3 active integrations."
+            },
+            {
+              "label": "Open workstation browser",
+              "status": "SUCCESS",
+              "message": "Opened https://google.com in your default browser."
+            },
+            {
+              "label": "Schedule meeting reminder",
+              "status": "SUCCESS",
+              "message": "Reminder scheduled: \"Scheduled meeting review\" for 9/29/2026, 4:04:19 PM."
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_0780609f3987",
+      "userId": "usr_560249722cd83231",
+      "title": "Reminder Scheduled",
+      "message": "Scheduled for 9/29/2026: tomorrow at 8 PM for team standup review",
+      "type": "reminder",
+      "read": false,
+      "createdAt": "2026-09-28T15:35:27.547Z"
+    },
+    {
+      "id": "notif_314328da8e50",
+      "userId": "usr_727a73c1867064cf",
+      "title": "Reminder Scheduled",
+      "message": "Scheduled for 9/29/2026: tomorrow at 8 PM for team standup review",
+      "type": "reminder",
+      "read": false,
+      "createdAt": "2026-09-28T15:35:55.720Z"
+    },
+    {
+      "id": "notif_f0f02cb3dd56",
+      "userId": "usr_ca7080525e12cb27",
+      "title": "Reminder Scheduled",
+      "message": "Scheduled for 9/29/2026: tomorrow at 8 PM for team standup review",
+      "type": "reminder",
+      "read": false,
+      "createdAt": "2026-09-28T16:04:19.871Z"
+    }
+  ],
+  "lastActions": {
+    "usr_560249722cd83231": {
+      "userId": "usr_560249722cd83231",
+      "actionType": "save_memory",
+      "recordId": "mem_d08554bce809",
+      "data": {
+        "id": "mem_d08554bce809",
+        "userId": "usr_560249722cd83231",
+        "category": "project",
+        "content": "my temporary wifi code is echo99",
+        "source": "chat",
+        "createdAt": "2026-09-28T15:35:27.551Z",
+        "updatedAt": "2026-09-28T15:35:27.551Z"
+      },
+      "description": "Saved memory: \"my temporary wifi code is echo99\"",
+      "timestamp": 1790609727552
+    },
+    "usr_727a73c1867064cf": {
+      "userId": "usr_727a73c1867064cf",
+      "actionType": "create_reminder",
+      "recordId": "rem_3550ce4fd2b1",
+      "data": {
+        "id": "rem_3550ce4fd2b1",
+        "userId": "usr_727a73c1867064cf",
+        "text": "Scheduled meeting review",
+        "scheduledTime": "2026-09-29T15:35:55.730Z",
+        "timezone": "UTC",
+        "status": "pending",
+        "notificationChannel": "in_app",
+        "createdAt": "2026-09-28T15:35:55.732Z"
+      },
+      "description": "Reminder: \"Scheduled meeting review\"",
+      "timestamp": 1790609755733
+    },
+    "usr_ca7080525e12cb27": {
+      "userId": "usr_ca7080525e12cb27",
+      "actionType": "create_reminder",
+      "recordId": "rem_dd1951d8ade1",
+      "data": {
+        "id": "rem_dd1951d8ade1",
+        "userId": "usr_ca7080525e12cb27",
+        "text": "Scheduled meeting review",
+        "scheduledTime": "2026-09-29T16:04:19.887Z",
+        "timezone": "UTC",
+        "status": "pending",
+        "notificationChannel": "in_app",
+        "createdAt": "2026-09-28T16:04:19.889Z"
+      },
+      "description": "Reminder: \"Scheduled meeting review\"",
+      "timestamp": 1790611459890
+    }
+  },
+  "pendingClarifications": {},
+  "sessions": {
+    "sr_sess_290d38b9877a96109ffa699e7d49e8511cdbf840ca6d411c": {
+      "userId": "usr_716b48aae3f15a9b",
+      "expiresAt": 1791214018303
+    },
+    "sr_sess_f43110b6ced39ef17382bbd0d62db99507611185b19bee44": {
+      "userId": "usr_7d2493341b77cc3c",
+      "expiresAt": 1791214018311
+    },
+    "sr_sess_051fb1290d3c12d27ec72eb03c84068eddb8a271d537c880": {
+      "userId": "usr_owner_alpha_01",
+      "expiresAt": 1791214077231
+    },
+    "sr_sess_28dda857dc5992bbc599dd143a6feac12819fd34c82bb3b5": {
+      "userId": "usr_owner_alpha_01",
+      "expiresAt": 1791214077634
+    },
+    "sr_sess_e325fd8ac9230962042ad24c14172d5c86556a1b24ab2551": {
+      "userId": "usr_43b9fe717ab64943",
+      "expiresAt": 1791214524142
+    },
+    "sr_sess_b38f7cad07984c0cb4a6414277c12ec1d4f26cc42685ffbe": {
+      "userId": "usr_560249722cd83231",
+      "expiresAt": 1791214524150
+    },
+    "sr_sess_a59cef6af6c566d19c05aac0601816e1766e012cdd3725d1": {
+      "userId": "usr_577cb45a90ae0875",
+      "expiresAt": 1791214549667
+    },
+    "sr_sess_92ac6531f4625f4ff0f555fc7ce19d0dfb8fa500b335d527": {
+      "userId": "usr_727a73c1867064cf",
+      "expiresAt": 1791214549676
+    },
+    "sr_sess_140b3c196d8f6b5bf99caacb234ec09994b8bcbc3aae7685": {
+      "userId": "usr_e5bdb90447542221",
+      "expiresAt": 1791216256050
+    },
+    "sr_sess_d9bcc8b8546b43b64998a266af31864105ca7e0614b88d44": {
+      "userId": "usr_ca7080525e12cb27",
+      "expiresAt": 1791216256059
+    }
+  }
+}
